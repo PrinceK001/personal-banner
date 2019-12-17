@@ -1,10 +1,11 @@
 body {
   font-family: 'Neucha', cursive;
   font-size: 32px;
+  display: block;
+  text-align: center;
 }
 
 .title {
-  text-align: center;
   margin : 0;
 }
 
